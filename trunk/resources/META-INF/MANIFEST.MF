@@ -1,0 +1,28 @@
+Manifest-Version: 1.0
+Class-Path: jconsole.jar spring-beans-5.0.9.RELEASE.jar logback-classi
+ c-1.2.3.jar HikariCP-2.7.9.jar tomcat-embed-websocket-8.5.34.jar spri
+ ng-boot-starter-tomcat-2.0.5.RELEASE.jar mybatis-spring-boot-autoconf
+ igure-1.3.1.jar spring-boot-starter-2.0.5.RELEASE.jar spring-context-
+ 5.0.9.RELEASE.jar jackson-annotations-2.9.0.jar jul-to-slf4j-1.7.25.j
+ ar javax.annotation-api-1.3.2.jar spring-aop-5.0.9.RELEASE.jar jackso
+ n-core-2.9.6.jar spring-core-5.0.9.RELEASE.jar jackson-module-paramet
+ er-names-2.9.6.jar classmate-1.3.4.jar hibernate-validator-5.2.4.Fina
+ l.jar spring-boot-starter-web-2.0.5.RELEASE.jar p6spy-3.7.0.jar mybat
+ is-plus-extension-3.0.5.jar validation-api-2.0.1.Final.jar mybatis-pl
+ us-generator-3.0.5.jar mybatis-spring-1.3.1.jar jboss-logging-3.3.2.F
+ inal.jar hibernate-validator-6.0.12.Final.jar jackson-datatype-jdk8-2
+ .9.6.jar spring-boot-starter-jdbc-2.0.5.RELEASE.jar mysql-connector-j
+ ava-5.1.41.jar mybatis-spring-boot-starter-1.3.1.jar spring-boot-auto
+ configure-2.0.5.RELEASE.jar spring-web-5.0.9.RELEASE.jar spring-boot-
+ 2.0.5.RELEASE.jar log4j-api-2.10.0.jar mybatis-plus-3.0.5.jar mybatis
+ -3.4.5.jar spring-tx-5.0.9.RELEASE.jar tools.jar jackson-datatype-jsr
+ 310-2.9.6.jar jackson-databind-2.9.6.jar mybatis-plus-core-3.0.5.jar 
+ mybatis-plus-annotation-3.0.5.jar druid-1.1.3.jar commons-lang3-3.7.j
+ ar snakeyaml-1.19.jar spring-expression-5.0.9.RELEASE.jar jsqlparser-
+ 1.2.jar spring-jcl-5.0.9.RELEASE.jar tomcat-embed-core-8.5.34.jar spr
+ ing-boot-starter-logging-2.0.5.RELEASE.jar tomcat-embed-el-8.5.34.jar
+  logback-core-1.2.3.jar slf4j-api-1.7.25.jar log4j-to-slf4j-2.10.0.ja
+ r spring-boot-starter-json-2.0.5.RELEASE.jar spring-webmvc-5.0.9.RELE
+ ASE.jar spring-jdbc-5.0.9.RELEASE.jar joda-time-2.9.1.jar
+Main-Class: com.miaoshaproject.App
+

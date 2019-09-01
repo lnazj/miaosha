@@ -1,0 +1,40 @@
+server:
+  port: 8090
+mybatis:
+   mapper-locations: classpath:mapping/*.xml
+
+spring:
+  datasource:
+    url: jdbc:p6spy:mysql://192.168.255.129:3306/miaosha
+    username: root
+    password: root
+    driver-class-name: com.p6spy.engine.spy.P6SpyDriver
+    type: com.alibaba.druid.pool.DruidDataSource
+    max-idle: 10
+    max-wait: 10000
+    min-idl: 5
+    initial-size: 5
+
+  #配置redis
+  redis:
+    host: 192.168.255.129
+    port: 6379
+    database: 1
+    jedis:
+      pool:
+        max-active: 50
+        min-idle: 20
+  rabbitmq:
+    addresses: 192.168.255.129:5672
+    username: guest
+    password: guest
+    publisher-confirms: true
+    publisher-returns: true
+
+
+
+
+    
+
+
+
